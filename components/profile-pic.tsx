@@ -9,6 +9,7 @@ export default function ProfilePic() {
 				height={500}
 				width={500}
 				alt='Profile picture'
+				priority={true}
 			/>
 		</div>
 	);
